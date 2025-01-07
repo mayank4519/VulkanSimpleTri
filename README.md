@@ -16,3 +16,7 @@ Texture Mapping output:
 Depth Buffering:
 
 ![image](https://github.com/user-attachments/assets/b8a62414-19c8-4274-bb9e-0fa41358786b)
+
+Load a model:
+
+![image](https://github.com/user-attachments/assets/4a9207f0-9ac3-4ad1-b31e-ec56ff02cae5)
